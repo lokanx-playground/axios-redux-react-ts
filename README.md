@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Tutorial followed
+
+https://blog.usejournal.com/using-react-with-redux-and-typescript-c7ec48c211f6
+
 ## Available Scripts
 
 In the project directory, you can run:
